@@ -1,0 +1,9 @@
+body{
+  margin : 50px
+}
+#imagem_redonda{
+  height: 150px;
+  height: 150px;
+  border-radius : 50%;
+  border : 3px rgb(154, 115, 190)
+}
